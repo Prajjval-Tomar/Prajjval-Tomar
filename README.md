@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajjval-tomar" alt="prajjval-tomar" /></a> </p>
 
-- 🔭 I’m currently working on **Real State Project[Property Management]**
+- 🔭 I’m currently working as Software Developer at **Sony India Software Centre Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Django, React.JS, GenAI**
 
